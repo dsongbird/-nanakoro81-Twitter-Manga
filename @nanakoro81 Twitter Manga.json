@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@nanakoro81",
   "author": "@nanakoro81",
-  "cover": "https://i.imgur.com/t8jX8bh.jpg",
+  "cover": "https://i.imgur.com/8SUBzfc.jpg",
   "chapters": {
     "1": {
       "title": "A Brother Who Becomes a Sister for His Sister - Ch. 1",
@@ -171,6 +171,14 @@
       "last_updated": "1659915079",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/SDfA5Rv"
+      }
+    },
+    "22": {
+      "title": "Isn’t This Girl’s Livestream Kinda Creepy? - Ch. 3",
+      "volume": "",
+      "last_updated": "1660175604",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/7rcvmjz"
       }
     }
   }
