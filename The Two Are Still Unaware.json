@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@creamiyabi_0303  ",
   "author": "@creamiyabi_0303  ",
-  "cover": "https://i.imgur.com/waCszga.jpg",
+  "cover": "https://i.imgur.com/oeZFsBn.jpg",
   "chapters": {
     "1": {
       "title": "The Two Are Still Unaware",
@@ -22,7 +22,7 @@
       }
     },
     "3": {
-      "title": "A Dishonest Girl Who Doesn’t Like the Idea of Being Friends",
+      "title": "A Girl Who Can't Be Honest Doesn’t Like the Idea of Being Friends",
       "volume": "",
       "last_updated": "1658643855",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "4": {
-      "title": "A Dishonest Girl Talks on the Phone",
+      "title": "A Girl Who Can't Be Honest Talks on the Phone",
       "volume": "",
       "last_updated": "1658643920",
       "groups": {
@@ -59,6 +59,14 @@
       "last_updated": "1659853741",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/RjFb9LD"
+      }
+    },
+    "8": {
+      "title": "A Girl Who Can’t Be Honest Listens to Her Male Friend’s Request",
+      "volume": "",
+      "last_updated": "1660455678",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/zjGbW0x"
       }
     }
   }
