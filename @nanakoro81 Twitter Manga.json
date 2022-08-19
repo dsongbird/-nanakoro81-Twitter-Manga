@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@nanakoro81",
   "author": "@nanakoro81",
-  "cover": "https://i.imgur.com/FpIsQEp.jpg",
+  "cover": "https://i.imgur.com/IUW5i6y.jpg",
   "chapters": {
     "1": {
       "title": "A Brother Who Becomes a Sister for His Sister - Ch. 1",
@@ -150,7 +150,7 @@
       }
     },
     "19": {
-      "title": "I Caught a Cold, and the Lady Next Door Made Me Rice Porridge. Wait... - Ch. 9",
+      "title": "I Caught a Cold, and the Lady Next Door Made Me Rice Porridge. Wait... - Final Chapter",
       "volume": "",
       "last_updated": "1659606857",
       "groups": {
@@ -219,6 +219,14 @@
       "last_updated": "1660796312",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/VEgQDdP"
+      }
+    },
+    "28": {
+      "title": "Isn’t This Girl’s Livestream Kinda Creepy? - Final Chapter",
+      "volume": "",
+      "last_updated": "1660896995",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/D2f9YFM"
       }
     }
   }
