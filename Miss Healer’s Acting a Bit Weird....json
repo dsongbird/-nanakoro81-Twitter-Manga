@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@peace_maki02",
   "author": "@peace_maki02",
-  "cover": "https://i.imgur.com/QBKsG4V.jpg",
+  "cover": "https://i.imgur.com/zJormDR.jpg",
   "chapters": {
     "1": {
       "title": "Chapter 1",
@@ -43,6 +43,14 @@
       "last_updated": "1660554246",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/Z38ZztX"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1660969278",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/eaHoXww"
       }
     }
   }
