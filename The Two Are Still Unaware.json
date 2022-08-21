@@ -3,7 +3,7 @@
   "description": "No, it's not just you. The mangaka seems to change their mind on what this series should be titled quite frequently.\n",
   "artist": "@creamiyabi_0303  ",
   "author": "@creamiyabi_0303  ",
-  "cover": "https://i.imgur.com/oeZFsBn.jpg",
+  "cover": "https://i.imgur.com/oNOiCKP.jpg",
   "chapters": {
     "1": {
       "title": "The Two Are Still Unaware",
@@ -67,6 +67,14 @@
       "last_updated": "1660455678",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/zjGbW0x"
+      }
+    },
+    "9": {
+      "title": "A Cowardly Male Friend",
+      "volume": "",
+      "last_updated": "1661078788",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/mA9DzjL"
       }
     }
   }
