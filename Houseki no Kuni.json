@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Haruko Ichikawa",
   "author": "Haruko Ichikawa",
-  "cover": "",
+  "cover": "https://i.imgur.com/SvXs4Fm.jpg",
   "chapters": {
     "96": {
       "title": "10,000 Years",
@@ -19,6 +19,14 @@
       "last_updated": "1658681539",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/so3ZWoT"
+      }
+    },
+    "98": {
+      "title": "Prayer",
+      "volume": "12",
+      "last_updated": "1661275027",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/oByD8ZF"
       }
     }
   }
