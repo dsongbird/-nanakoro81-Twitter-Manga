@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@nanakoro81",
   "author": "@nanakoro81",
-  "cover": "https://i.imgur.com/YgkU6f3.jpg",
+  "cover": "https://i.imgur.com/VI5ekcr.jpg",
   "chapters": {
     "1": {
       "title": "A Brother Who Becomes a Sister for His Sister - Ch. 1",
@@ -235,6 +235,14 @@
       "last_updated": "1661062537",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/Kjcl0OX"
+      }
+    },
+    "30": {
+      "title": "Sleepiness-chan. She Always Seems to Show Up After You Eat Lunch.",
+      "volume": "",
+      "last_updated": "1661423489",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/SMQR7i5"
       }
     }
   }
