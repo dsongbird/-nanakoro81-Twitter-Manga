@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@nanakoro81",
   "author": "@nanakoro81",
-  "cover": "https://i.imgur.com/lEKr5Jf.jpg",
+  "cover": "https://i.imgur.com/DY7rmyi.jpg",
   "chapters": {
     "1": {
       "title": "A Brother Who Becomes a Sister for His Sister - Ch. 1",
@@ -259,6 +259,14 @@
       "last_updated": "1661664347",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/8DGYcWh"
+      }
+    },
+    "33": {
+      "title": "Until I Become Her Heart - Ch. 1",
+      "volume": "",
+      "last_updated": "1661667834",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/sRVq2nl"
       }
     }
   }
