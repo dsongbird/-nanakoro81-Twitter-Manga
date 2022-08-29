@@ -1,0 +1,17 @@
+{
+  "title": "@maria_komaki Twitter Manga",
+  "description": "",
+  "artist": "@maria_komaki",
+  "author": "@maria_komaki",
+  "cover": "https://i.imgur.com/1Fx2pGu.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Types of Workers I Personally Love",
+      "volume": "",
+      "last_updated": "1661772602",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/15tbJhv"
+      }
+    }
+  }
+}
