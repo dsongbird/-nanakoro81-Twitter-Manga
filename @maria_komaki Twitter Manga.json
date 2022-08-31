@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@maria_komaki",
   "author": "@maria_komaki",
-  "cover": "https://i.imgur.com/1Fx2pGu.jpg",
+  "cover": "https://i.imgur.com/Uqixy2h.jpg",
   "chapters": {
     "1": {
       "title": "The Types of Workers I Personally Love",
@@ -11,6 +11,14 @@
       "last_updated": "1661772602",
       "groups": {
         "": "/proxy/api/imgur/chapter/15tbJhv"
+      }
+    },
+    "2": {
+      "title": "Girls Who Don’t Act the Way They Look",
+      "volume": "",
+      "last_updated": "1661918024",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ttbvfFv"
       }
     }
   }
