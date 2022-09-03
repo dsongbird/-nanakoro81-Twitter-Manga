@@ -1,9 +1,9 @@
 {
-  "title": "@peace_maki02 Twitter Manga",
+  "title": "Isekai Adventurers Series",
   "description": "",
   "artist": "@peace_maki02",
   "author": "@peace_maki02",
-  "cover": "https://i.imgur.com/8mAy2ti.jpg",
+  "cover": "https://i.imgur.com/Duu51hC.jpg",
   "chapters": {
     "1": {
       "title": "Miss Healer’s Acting a Bit Weird... Ch. 1",
@@ -67,6 +67,14 @@
       "last_updated": "1661659212",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/WCrSYZK"
+      }
+    },
+    "10": {
+      "title": "This Martial Artist Is My Lifelong Rival",
+      "volume": "",
+      "last_updated": "1662203411",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/FJMuZo6"
       }
     }
   }
