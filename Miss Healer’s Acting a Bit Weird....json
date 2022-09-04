@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@peace_maki02",
   "author": "@peace_maki02",
-  "cover": "https://i.imgur.com/Duu51hC.jpg",
+  "cover": "https://i.imgur.com/5L4rAFu.jpg",
   "chapters": {
     "1": {
       "title": "Miss Healer’s Acting a Bit Weird... Ch. 1",
@@ -75,6 +75,14 @@
       "last_updated": "1662203411",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/FJMuZo6"
+      }
+    },
+    "11": {
+      "title": "Miss Healer’s Acting a Bit Weird... Ch. 8 ",
+      "volume": "",
+      "last_updated": "1662285449",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/1XIGeBH"
       }
     }
   }
