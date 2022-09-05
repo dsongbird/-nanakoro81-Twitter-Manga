@@ -3,7 +3,7 @@
   "description": "",
   "artist": "@maria_komaki",
   "author": "@maria_komaki",
-  "cover": "https://i.imgur.com/Jc5BDsW.jpg",
+  "cover": "https://i.imgur.com/5r1BmE8.jpg",
   "chapters": {
     "1": {
       "title": "The Types of Workers I Personally Love",
@@ -43,6 +43,14 @@
       "last_updated": "1662198545",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/jxAUOlT"
+      }
+    },
+    "6": {
+      "title": "My Favorite Types of Girls by Subject - Ch. 4",
+      "volume": "",
+      "last_updated": "1662354178",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/JFohKNd"
       }
     }
   }
