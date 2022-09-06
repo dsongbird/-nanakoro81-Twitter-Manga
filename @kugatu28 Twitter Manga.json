@@ -1,0 +1,17 @@
+{
+  "title": "@kugatu28 Twitter Manga",
+  "description": "",
+  "artist": "@kugatu28",
+  "author": "@kugatu28",
+  "cover": "https://i.imgur.com/zB49l6B.jpg",
+  "chapters": {
+    "1": {
+      "title": "A Kind but Unkind Yandere Gyaru",
+      "volume": "",
+      "last_updated": "1662462072",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/kVZ6eS2"
+      }
+    }
+  }
+}
