@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Haruko Ichikawa",
   "author": "Haruko Ichikawa",
-  "cover": "https://i.imgur.com/4NzTyU9.jpg",
+  "cover": "https://i.imgur.com/o9Wluzb.png",
   "chapters": {
     "0": {
       "title": "Houseki no Kuni - Prototype",
@@ -35,6 +35,14 @@
       "last_updated": "1661275027",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/oByD8ZF"
+      }
+    },
+    "99": {
+      "title": "Beginning",
+      "volume": "12",
+      "last_updated": "1669311180",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/NMoaU7l"
       }
     }
   }
